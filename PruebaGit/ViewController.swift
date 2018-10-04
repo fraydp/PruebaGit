@@ -9,6 +9,7 @@ class ViewController: UIViewController {
         let today = NSDate()
         print(today)
         print("Voy a subir esta linea de codigo a github directamente desde xcode")
+        print("Hola")
     }
 
     override func didReceiveMemoryWarning() {
