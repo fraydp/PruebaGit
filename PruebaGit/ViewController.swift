@@ -10,6 +10,7 @@ class ViewController: UIViewController {
         print(today)
         print("Voy a subir esta linea de codigo a github directamente desde xcode")
         print("Hola")
+        print("chao")
     }
 
     override func didReceiveMemoryWarning() {
